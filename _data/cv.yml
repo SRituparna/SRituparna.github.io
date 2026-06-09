@@ -4,7 +4,7 @@ cv:
   email: rituparnasarkr@gmail.com
   location: India
   image: ""
-  summary: Ph.D. in Atmospheric and Space Sciences with thesis focused on development of operational lightning forecast system using global model and artificial intelligence. 2 years of experience as a Project Scientist II at Indian Institute of Tropic Meteorology under National Monsoon Mission (NMM) on development of lightning parameterization in global model (GFST1534 and BFS). Architect of a novel hybrid lightning forecast system (C1AE) with results published in peer-reviewed journal. To address the data volume km-scale global model (BFS) I/O, have developed and operationalised parameter extraction tool which reduced data volume by a factor of ¼ while increase extraction process speed 12 times. Works in organised convection indices and experiments conducted in WRF have been presented in international conferences. Skilled in programming, parallel computing, HPC, operational forecasting, research collaboration and research communication.
+  summary: Numerical and AI model developer with focus on deep convective events, thunderstorms and lightning
 
   social_networks:
     # - network: X
