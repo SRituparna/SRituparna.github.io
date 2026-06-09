@@ -1,25 +1,15 @@
 cv:
   name: Rituparna Sarkar
-  # label: Scientist
   email: rituparnasarkr@gmail.com
   location: India
   image: ""
   summary: Numerical and AI model developer with focus on deep convective events, thunderstorms and lightning
 
   social_networks:
-    # - network: X
-    #   username: AlbertEinstein
     - network: GitHub
       username: srituparna
     - network: LinkedIn
       username: rituparnasindia 
-
-  # address:
-  #   street: 2712 Broadway St
-  #   city: San Francisco
-  #   region: California
-  #   postalCode: CA 94115
-  #   countryCode: US
 
   sections:
     Education:
