@@ -3,9 +3,12 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 # cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
 email: rituparnasarkr@gmail.com # your email address
+linkedin_username: rituparnasindia
+github_username: SRituparna
+
 # inspirehep_id: 1010907 # Inspire HEP author ID
 # rss_icon: true # comment this line to hide the RSS icon
-scholar_userid: LYIULzYAAAAJ # your Google Scholar ID
+
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 # custom_social: # can be any name here other than the ones already defined in the jekyll-i plugin
@@ -14,8 +17,8 @@ scholar_userid: LYIULzYAAAAJ # your Google Scholar ID
 #   url: https://www.alberteinstein.com/
 
 orcid_id: 0000-0002-2363-2006
+scholar_userid: LYIULzYAAAAJ # your Google Scholar ID
 research_gate_profile: Rituparna_Sarkar3
 youtube_id: UCaEnP8WiT10n0dvAwwhbl-w
-github_username: SRituparna
-linkedin_username: rituparnasindia
+
 
