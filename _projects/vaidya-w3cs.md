@@ -14,11 +14,11 @@ This video is part of the IITM W3CS 2023 recognition ceremony. To know more abou
 
 To check S S Vaidya's publications and all the resources used in this video, please check the below reference.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0kq69WKMa3M?si=Vo3y5AHNX6xrNO1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/0kq69WKMa3M?si=Vo3y5AHNX6xrNO1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <div class="caption">
     Youtube video thumbnail
-</div>
+</div> -->
 ***
 
 #### Video Credit
