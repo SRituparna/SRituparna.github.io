@@ -5,7 +5,7 @@ permalink: /projects/
 description: A collection of projects related research communication
 nav: true
 nav_order: 3
-display_categories: [outreach, finished, work, fun]
+display_categories: [video]
 horizontal: false
 ---
 

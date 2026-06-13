@@ -1,12 +1,18 @@
 ---
 layout: page
-title: a short feature video on first generation Indian modeller
-description: "Who came before us: a short feature on S S Vaidya"
+title: "Who came before us: a short feature on S S Vaidya"
+description: a short feature video on first generation Indian modeller
 img: assets/img/thumbnail-Vaidya-wc3s-video.jpg
 importance: 1
-category: outreach
+category: video
 related_publications: false
 ---
+<div>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/0kq69WKMa3M?si=Vo3y5AHNX6xrNO1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<div class="caption">
+    Link to Youtube video
+</div>
 
 On the occation of International Women's Day 2023, I got the opportunity to make something unique. As a part of the IITM W3CS recognition ceremony, I made a 6 minutes video featuring an indigenous numerical weather forecaster, S S Vaidya. Going through archives, talking to her colleagues and taking inspiration from YouTubers like BKR, Atrocity Guide, Defunctland and music from [Alexander Lasarenko](https://en.wikipedia.org/wiki/Alex_Lasarenko), learning primitives of editing, sound design, narration, script writing, storyboarding--- every second of which I enjoyed with my full heart. And through this process, learning when to finish and let my work see the light. It is not perfect, but it is something I am satisfied with. A small tribute to a pioneer in meteorology with my unsophisticated hands. 
 
@@ -14,11 +20,6 @@ This video is part of the IITM W3CS 2023 recognition ceremony. To know more abou
 
 To check S S Vaidya's publications and all the resources used in this video, please check the below reference.
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/0kq69WKMa3M?si=Vo3y5AHNX6xrNO1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<div class="caption">
-    Youtube video thumbnail
-</div> -->
 ***
 
 #### Video Credit
@@ -41,7 +42,7 @@ To check S S Vaidya's publications and all the resources used in this video, ple
 
 [2] G. Hellier, India, Mumbai, Maharashtra, Chhatrapati Shivaji Maharaj Terminus. 
 
-[3] workbook, 26th July 2005 | rain in Maharashtra Kalyan thane badlapur | high tide day. Youtube, 2017.
+[3] workbook, "26th July 2005 | rain in Maharashtra Kalyan thane badlapur | high tide day." Youtube, 2017.
 
 [4] Relief and Rehabilitation, Government of Maharashtra, “MAHARASHTRA FLOODS, 2005.”
 
@@ -80,4 +81,3 @@ To check S S Vaidya's publications and all the resources used in this video, ple
 [21] WRF Community, “Weather Research and forecasting (WRF) model.” UCAR/NCAR, 2000.
 
 [22] M. Xue, K. K. Droegemeier, and V. Wong, “The Advanced Regional Prediction System (ARPS) - A multiscale nonhydrostatic atmospheric simulation and prediction tool. Part I: Model dynamics and verification,” Meteor. Atmos. Physics, vol. 75, pp. 161–193, 2000.
-
