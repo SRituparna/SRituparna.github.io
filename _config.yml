@@ -7,7 +7,7 @@ first_name: Rituparna
 # middle_name: 
 last_name: Sarkar
 contact_note: >
-  Send me an email for your queries, collabs etc
+  Send me an <a href='mailto:rituparnasarkr@gmail.com'>email<a> for queries, collabs etc
 # description: > # the ">" symbol means to ignore newlines until "footer_text:"
 #   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 # footer_text: >
@@ -87,11 +87,11 @@ navbar_fixed: true
 footer_fixed: true
 search_enabled: true
 socials_in_search: true
-posts_in_search: true
+posts_in_search: false
 bib_search: true
 
 # Dimensions
-max_width: 930px
+max_width: 1200px
 
 # -----------------------------------------------------------------------------
 # Open Graph & Schema.org
@@ -253,7 +253,7 @@ exclude:
   - _pages/teaching.md
   - _pages/dropdown.md
   - _pages/profiles.md
-  - _pages/*_project.md
+  - _projects/*_project.md
 
 keep_files:
   - CNAME
@@ -480,7 +480,7 @@ enable_masonry: true # enables automatic project cards arrangement
 enable_math: true # enables math typesetting (uses MathJax)
 enable_tooltips: false # enables automatic tooltip links generated for each section titles on pages and posts
 enable_darkmode: true # enables switching between light/dark modes
-enable_navbar_social: true # enables displaying social links in the navbar on the about page
+enable_navbar_social: false # enables displaying social links in the navbar on the about page
 enable_project_categories: true # enables categorization of projects into multiple categories
 enable_medium_zoom: true # enables image zoom feature (as on medium.com)
 enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
