@@ -58,7 +58,7 @@ al_folio:
     allow_remote_loader: true
   features:
     cv:
-      enabled: false
+      enabled: true
     distill:
       enabled: true
   compat:
@@ -244,9 +244,7 @@ exclude:
   - _pages/blog.md
   - _pages/profile.md
   - _news/
-  - _data/cv.yml
   - _data/repositories.yml
-  - _pages/cv.md
   - _pages/repositories.md
   - _pages/teaching.md
   - _pages/dropdown.md

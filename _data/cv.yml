@@ -3,7 +3,7 @@ cv:
   email: rituparnasarkr@gmail.com
   location: India
   image: ""
-  summary: Numerical and AI model developer with focus on deep convective events, thunderstorms and lightning
+  summary: <p align="justify"> Ph.D. in Atmospheric and Space Sciences with a thesis focused on the development of an operational lightning forecast system using a global model and artificial intelligence (AI). As a Project Scientist II at the Indian Institute of Tropical Meteorology (IITM) under the National Monsoon Mission (NMM), two years of experience in the development of lightning parameterization in global models (GFS T1534 and BFS). Architect of a novel hybrid lightning forecast system (Two Autoencoder-based Classification or $C_{2AE}$  with results published in a peer-reviewed journal. To address the data volume of the km-scale global model (Bharat Forecast System or BFS) I/O, have developed and operationalised a parameter extraction tool that reduced data volume by a factor of 4× while increasing extraction speed by 12×. Work on organised convection indices and experiments conducted in WRF has been presented at international conferences. Skilled in programming, parallel computing, HPC, operational forecasting, research collaboration and research communication.</p>
 
   social_networks:
     - network: GitHub
@@ -15,181 +15,189 @@ cv:
     Education:
       - institution: Indian Institute of Tropical Meteorology; Savitribai Phule Pune University
         location: Pune, India
-        url: https://www.tropmet.res.in/; https://beta.unipune.ac.in/
+        url: https://www.unipune.ac.in/
         area: Atmospheric Sciences
         studyType: PhD
         start_date: 2018
         end_date: 2025
         thesis: "Development of the Lightning Forecasts in Global Forecasting Models and in Data-Driven Weather Forecasting Models."
         
-
       - institution: University of Calcutta
+        url: https://www.caluniv.ac.in/
         location: Kolkata, India
         area: Atmospheric Sciences
         studyType: Master of Science
         start_date: 2015
         end_date: 2017
-        # highlights:
-        #   - Description 1.
-        #   - Description 2.
+        highlights:
+          - Final Grade 80.1%
+          - Dissertation Probing for connectivity between lightning activity and depth of convection during pre-monsoon season over Kolkata
 
       - institution: Asutosh College, University of Calcutta
+        url: http://www.asutoshcollege.in/
         location: Kolkata, India
         area: Physics (Honours)
         studyType: Bachelor of Science
         start_date: 2012    
         end_date: 2015
-        # highlights:
-        #   - Description 1.
-        #   - Description 2. 
+        highlights:
+          - Final Grade 65.75%
 
     Experience:
       - company: Indian Institute of Tropical Meteorology
+        url: https://www.tropmet.res.in/
         position: Project Scientist II
         location: Pune, India
         start_date: 2024
         end_date: 2026
-        # summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
         highlights:
         - Experience in development of lightning parameterization in BFS using Fortran and shell scripting in Arka HPC
-
         - Experience in development and operationalization of parameter extraction tools for BFS model output (in ≳100 TB) using shell scripting in Arka HPC
-
         - Experience in BFS model output analysis and visualisation using python and GrADS scripting
-
         - Experience in implementation of mesoscale convective system tracking (organization_indices and PyFLEXTRKR) using BFS, GFST1534 and ERA5 dataset
-
         - Completed basic course on Code of Conduct for Government Employees by Institute of Secretariat Training and Management along with 6 others certificate course on Karmayogi platform
-
         - Work have been presented at the Eighth WMO International Workshop on Monsoons (IWM-8), 2025 and INTROMET-2025
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Indian Institute of Tropical Meteorology
+        url: https://www.tropmet.res.in/
+        position: Research Fellow
+        location: Pune, India
+        start_date: 2018
+        end_date: 2024
         highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Experience in the development of lightning parameterization for IITM GFS T1534 with the help of Fortran and shell scripting in Pratyush HPC.
+          - Developed a unique NWP AI-hybrid lightning prediction system with IMD WRF operational output as model input.
+          - Participated in the Short-Range Prediction System daily operational forecast by generating meteorological forecast products using daily forecast output from GFS T1534 and GEFS T1534.
+          - Experience in successful installation and execution of GFS T1534 and ARW WRF v3.9.1.1.
+          - Have conducted extensive data preprocessing of operational forecasting datasets for global and regional models, as well as raw observational data, using Python, CDO, NCO and shell scripting on the UNIX operating system.
+          - Computed complex statistical analyses and interpreted data using Python, CDO and GrADS.
+          - Collected data and observed trends while analysing global and regional numerical model output.
+          - Compiled data in reports and other documents using Markdown, LaTeX, Microsoft Office, Google Workspace, Jupyter and Notion.
+          - Collaborated with other researchers to write and distribute the impactful results of the forecast skill of the lightning prediction system generated by the global numerical model.
+          - Followed best practices and scientific protocol to reach defensible conclusions based on solid evidence.
+          - Upheld all university and regulatory requirements for documentation of findings.
 
     Awards:
-      - title: Nobel Prize in Physics
+      - title: AGU23 Student Travel Grant
         authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+          - "American Geophysical Union"
+        date: 2023-09-18
+        awarder: American Geophysical Union 
+        url: https://agu.secure-platform.com/a/gallery/rounds/172/details/39338
+        summary: Student Travel Grant to participate in the American Geophysical Union 2023 Annual Meeting (AGU23), held 11-15 December 2023 in San Francisco, California, USA
 
-      - title: Max Planck Medal
+      - title: Best Student Award
         authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+          - "Development of Skilled Manpower in Earth System Sciences (DESK), IITM, Pune."
+        date: 2019-11-17
+        awarder: Development of Skilled Manpower in Earth System Sciences (DESK), IITM, Pune.
+        summary: For ranking first in the two-semester Ph.D. course, 2018–2019
+      
+      - title: DST INSPIRE Fellowship, 2018
+        authors:
+          - "Department of Science and Technology (DST), Ministry of Science and Technology, Government of India."
+        date: 2017-12-19
+        awarder: Department of Science and Technology (DST), Ministry of Science and Technology, Government of India.
+        summary: A unique Scheme "Innovation in Science Pursuit for Inspired Research (INSPIRE)" with several components. INSPIRE Fellowship provides fellowship in Basic and Applied Sciences.
+
+      - title: GATE 2018
+        date: 2018-01-01
+        summary: All India Rank 492
+
+      - title: CSIR-UGC Lectureship, 2017
+        date: 2017-01-01
+        summary: All India Rank 492
+
+      - title: DST INSPIRE Scholarship, 2012
+        authors:
+          - "Department of Science and Technology (DST), Ministry of Science and Technology, Government of India."
+        date: 2017-12-19
+        awarder: Department of Science and Technology (DST), Ministry of Science and Technology, Government of India.
+        summary: For being top 1% rank holder in state higher secondary exams, 2012 in Science subjects.
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+  
+      - title: Performance of a novel NWP–AI hybrid lightning early warning system over Indian Subcontinent
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - Rituparna Sarkar; Parthasarathi Mukhopadhyay; Sunil D Pawar 
+        publisher:  Journal of Earth System Science 
+        releaseDate: 2025-01-27
+        url: https://doi.org/10.1007/978-981-97-7075-5_18
+        summary: <p align="justify"> NWP models have difficulty in converting complex microphysical and dynamical processes in lightning. In contrast, data-driven AI models fail to capture the latent features associated with lightning activity. A novel NWP–AI hybrid lightning early warning system using a two-autoencoder-based classification model ($C_{2AE}$), which uses IMD WRF 9 km forecast as input, is discussed. The current version of $C_{2AE}$ uses mean square error as a loss function and, after finetuning, can forecast lightning activity with an error of 3% when tested over the training region. Further analysis of different thunderstorm-prone regions for March–April–May 2020 reveals that $C_{2AE}$ can capture the spatial and temporal distribution of lightning independent of the training region. </p>
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: Lightning Forecasting and Utilization of AI/ML in Early Warnings
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
+          - Rituparna Sarkar; Parthasarathi Mukhopadhyay
+        publisher: Springer Nature Link 
+        releaseDate: 2025-01-26
         url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+        summary: <p align="justify"> In recent years, the application of Artificial Intelligence (AI) in different sectors of society has become one of the most common technologies. As AI becomes a useful tool, incorporating AI in weather forecasts has also started rising. Lightning is one of India’s leading causes of casualty associated with natural disasters. An early warning system for lightning forecast is of utmost importance. However, the atmospheric processes associated with lightning are yet to be fully understood, making it challenging to simulate in a numerical weather prediction (NWP) model for operational purposes. Considering all these factors, in this chapter, we have discussed an AI-based deep learning approach for lightning prediction. This new AI-based lightning prediction system uses the Indian Meteorology Department (IMD) Weather Research and Forecasting (WRF) model at 9 km resolution as input which presently do not have any lightning product. The Indian Institute of Tropical Meteorology (IITM) Lightning Location Network (LLN) observation data is used as target vector to train the model. Due to the high imbalance of rare and severe events (RSEs) like lightning, we have used a novel approach of two-auto encoder-based classification ($C_{2AE}$) to train a deep-learning algorithm to correctly encode meteorological features associated with lightning and non-lightning incidents and, when the trained model is tested on a new dataset, it is able to correctly identify lightning events with statistical significance. </p>
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: Evaluation of ECMWF Lightning Flash Forecast over Indian Subcontinent during MAM 2020 
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          -  Rituparna Sarkar; Parthasarathi Mukhopadhyay; Peter Bechtold; Philippe Lopez; Sunil D. Pawar; Kaustav Chakravarty
+        publisher: Atmosphere 
+        releaseDate: 2022-09-17
+        url: https://doi.org/10.3390/atmos13091520
+        summary: <p align="justify"> During the pre-monsoon season (March–April–May), the eastern and northeastern parts of India, Himalayan foothills, and southern parts of India experience extensive lightning activity. Mean moisture, surface and upper-level winds, the sheared atmosphere in the lower level, and high positive values of vertically integrated moisture flux convergence (VIMFC) create favorable conditions for deep convective systems to occur, generating lightning. From mid-2018, the European Centre for Medium-Range Weather Forecasts (ECMWF) Integrated Forecasting System (IFS) operationally introduced lightning flash density on a global scale. This study evaluates the ECMWF lightning forecasts over India during the pre-monsoon season of 2020 using the Indian Institute of Tropical Meteorology (IITM) Lightning Location Network (LLN) observation data. Qualitative and quantitative analysis of the ECMWF lightning forecast has shown that the lightning forecast with a 72-h lead time can capture the spatial and temporal variation of lightning with a 90% skill score. </p>
 
     Skills:
-      - name: Physics
-        level: Master
+      - name: HPC Working Experience
         icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "Arka, Pratyush, Aditya"
 
+      - name: Operating system
+        icon: fa-solid fa-hashtag
+        keywords: "UNIX, LINUX, Windows"
+
+      - name: Scripting Languages
+        icon: fa-solid fa-hashtag
+        keywords: "Python, Bash, Shell, C++, Fortran, MATLAB"
+
+      - name: Large datasets handling experience
+        icon: fa-solid fa-hashtag
+        keywords: "NetCDF, HDF, GRIB, GRID, CSV and Binary format"
+
+      - name: NWP model 
+        icon: fa-solid fa-hashtag
+        keywords: "BFS, GFS T1534, ARW-WRF (v4.2, v3.9.1.1, v3.4)"
+
+      - name: AIML Packages 
+        icon: fa-solid fa-hashtag
+        keywords: "Numpy, XArray, Pandas, DASK, Theano, Scikit-learn, SciPy, TensorFlow, PyTorch, Keras"
+
+      - name: Parallel computation 
+        icon: fa-solid fa-hashtag
+        keywords: "OpenMP, MPI, NVIDIA CUDA, DASK"
+      
+      - name: Data Serialisation
+        icon: fa-solid fa-hashtag
+        keywords: "Pickle"
+
+      - name: GIS and meteorological data analysis tools
+        icon: fa-solid fa-hashtag
+        keywords: "GrADS, CDO, NCO, CDO{py}, eccodes, metpy, imdlib, cf-python, nctoolkit, geopandas, rioxarray, pangaea, netcdf4-python, ncview, GRIB-API, wgrib, wgrib2, ftn_wgrib2api"
+
+      - name: Data Visualisation
+        icon: fa-solid fa-hashtag
+        keywords: "GrADS, Matplotlib, Seaborn, Basemap, Cartopy, Shapely, PyNCL, PyNIO, PyNGL"
+       
+      - name: Text editor
+        icon: fa-solid fa-hashtag
+        keywords: "vim, notepad, notepad++, VS Code"
+  
+      - name: Version Control Software
+        icon: fa-solid fa-hashtag
+        keywords: "Git"
+
+      - name: Document preparation
+        icon: fa-solid fa-hashtag
+        keywords: "Markdown, LaTeX, Microsoft Office, Google Workspace, Jupyter Notebook, GitHub, Notion, draw.io, mermaid.js, Canva, Adobe, Jekyll, HTML"
+       
     Languages:
-      - name: German
+      - name: Bengali
         summary: "Native speaker"
 
       - name: English
         summary: "Fluent"
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
