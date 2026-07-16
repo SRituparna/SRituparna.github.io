@@ -6,7 +6,7 @@ subtitle: Researcher | Storyteller | Coder # <a href='#'>Affiliations</a>. Addre
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: dp_test.png
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>email: <a href='mailto:rituparnasarkr@gmail.com'>rituparnasarkr@gmail.com</a></p>
