@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-01'
+  last_updated: '2026-08-03'
 papers:
   LYIULzYAAAAJ:2osOgNQ5qMEC:
     citations: 1
@@ -14,6 +14,6 @@ papers:
     title: A Novel NWP-AI Hybrid Approach For Lightning Early Warning System
     year: '2023'
   LYIULzYAAAAJ:u5HHmVD_uO8C:
-    citations: 11
+    citations: 12
     title: Evaluation of ECMWF Lightning Flash Forecast over Indian Subcontinent during MAM 2020
     year: '2022'
