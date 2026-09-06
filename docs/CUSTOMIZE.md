@@ -396,7 +396,7 @@ The user and repository information is defined in [\_data/repositories.yml](../_
 
 The repository page uses external services to display GitHub statistics and trophies. By default, these are:
 
-- `github-readme-stats.vercel.app` for user stats and repository cards
+- `github-stats-extended.vercel.app` for user stats and repository cards
 - `github-profile-trophy.vercel.app` for GitHub profile trophies
 
 **Important:** These default services are hosted by third parties and may not be available 100% of the time. For better reliability, privacy, and customization, you can self-host these services and configure your website to use your own instances.
@@ -405,7 +405,7 @@ To use your own instances of these services, configure the URLs in [\_config.yml
 
 ```yaml
 external_services:
-  github_readme_stats_url: https://github-readme-stats.vercel.app
+  github_readme_stats_url: https://github-stats-extended.vercel.app
   github_profile_trophy_url: https://github-profile-trophy.vercel.app
 ```
 
