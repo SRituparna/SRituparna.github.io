@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A collection of projects related research communication
+description: A collection of projects related to science communication
 nav: true
 nav_order: 3
-display_categories: [video, workshop]
+display_categories: false #[video, workshop]
 horizontal: false
 ---
 
