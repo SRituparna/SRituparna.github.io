@@ -90,7 +90,7 @@ nav_order: 4
       <div class="github-pin-image">
         <img
           loading="lazy"
-          src="https://github-stats-extended.vercel.app/api/top-langs?username=SRituparna&layout=compact&langs_count=4&hide_values=true&theme=default&disable_animations=True&card_width=400&custom_title=github.com/SRituparn"
+          src="https://github-stats-extended.vercel.app/api/top-langs?username=SRituparna&layout=compact&langs_count=4&hide_values=true&theme=default&disable_animations=True&card_width=400&custom_title=github.com/SRituparna"
           alt="Rituparna">
       </div>
     </a>
@@ -140,7 +140,7 @@ nav_order: 4
 
 <div style="width:50%; height:400px; overflow:hidden;">  
   <h3><a href="https://observablehq.com/d/1c11066aa24ae815@151">Packed Circle Chart</a></h3>
-  <p>By <a href="https://old.observablehq.com/@rituparna-sarkar?tab=recents">rituparna-sarkar</a></p>
+  <p>By <a href="https://observablehq.com/@rituparna-sarkar">rituparna-sarkar</a></p>
   <div id="observablehq-embed-d7a99c2b"></div>
 </div>
 
