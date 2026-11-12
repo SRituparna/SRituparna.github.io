@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: A collection of projects related to science communication
 nav: true
-nav_order: 3
+nav_order: 4
 display_categories: false #[video, workshop]
 horizontal: false
 ---
